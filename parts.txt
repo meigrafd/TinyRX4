@@ -1,0 +1,23 @@
+Partlist
+
+Exported from Empfangsboard.brd at 17.02.2014 13:19:52
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package  Library        Position (mm)         Orientation
+
+ANT                     1,6/0,8  JeeLabs        (2.6 15.24)           R0
+ATTINY84 TINY\84-SSU    SOIC14   avr-7          (13.97 7.62)          R0
+C1       100n           C0805    rcl            (8 3.81)              R90
+C2       100n           C0805    rcl            (13.97 26.67)         MR270
+ISP                     ML6      con-harting-ml (20.32 20.32)         R270
+JP1                     1X02     SparkFun       (19.05 30.48)         R180
+JP3                     1X03     pinhead        (21.59 5.08)          R270
+LED1                    SML0805  led            (20.32 11.43)         R180
+R1       220            R0805    rcl            (21.59 13.97)         MR270
+R3       10K            R0805    rcl            (16.51 26.67)         MR90
+R4       10K            R0805    rcl            (8.89 26.67)          MR90
+RASPI                   FE05-2   con-lsta       (3.81 7.62)           R90
+RFM12B   RFM12B         RFM12B   JeeLabs        (7.7 26.67)           R270
